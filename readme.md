@@ -1,6 +1,6 @@
 # 多机器人地图拼接
 
-## UML图
+## UML
 
 ![](http://assets.processon.com/chart_image/5fa39a6e1e08534d55689e5b.png)
 
