@@ -1,0 +1,10 @@
+cmake-build-debug
+.vscode
+.idea
+.svn
+build
+bin
+lib
+data/*
+3rdparty/ORB_SLAM2/Vocabulary/*
+3rdparty/ORB_SLAM2/Examples/RGB-D/rgbd_tum
